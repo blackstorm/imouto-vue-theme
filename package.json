@@ -1,0 +1,26 @@
+{
+  "name": "utf-8.live",
+  "version": "0.0.0",
+  "description": "utf-8.live inf2",
+  "private": true,
+  "keywords": [],
+  "scripts": {
+    "dev": "cooking watch -p",
+    "dist": "cooking build -p",
+    "deploy": "cooking build --no-color"
+  },
+  "author": "inf2",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.2",
+    "babel-polyfill": "*",
+    "fecha": "^2.3.0",
+    "mockjs": "^1.0.1-beta3",
+    "vue": "^2.1.6",
+    "vue-router": "^2.1.1",
+    "vuex": "^2.1.1"
+  },
+  "devDependencies": {
+    "cooking-vue2": "*"
+  }
+}

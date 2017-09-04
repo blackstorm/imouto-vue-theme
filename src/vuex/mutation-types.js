@@ -1,0 +1,10 @@
+export const SET_ART = 'SET_ART';
+export const SHOW_APP_LOADING = 'SHOW_APP_LOADING';
+export const HIDDEN_APP_LOADING = 'HIDDEN_APP_LOADING';
+export const SET_POST = 'SET_POST';
+export const SHOW_SEARCH = 'SHOW_SEARCH';
+export const HIDDEN_SEARCH = 'HIDDEN_SEARCH';
+export const CLEAR_POST = 'CLEAR_POST';
+export const SET_FORM_BTNVALUE = 'SET_FORM_BTNVALUE';
+export const INIT_FORM_BTN = 'INIT_FORM_BTN';
+export const SET_FORM_BTNDISABLE = 'SET_FORM_BTNDISABLE';
